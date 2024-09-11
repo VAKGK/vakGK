@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vakgk&label=Profile%20views&color=0e75b6&style=flat" alt="vakgk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/vak_gk" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/vak_gk?logo=twitter&style=for-the-badge" alt="https://x.com/vak_gk" /></a> </p>
-
 - 💬 Ask me about **Microsoft Excel,Microsoft Power BI,MySQL**
 
 - 📫 How to reach me **arunpersonal21085@gmail.com**
@@ -22,6 +20,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vakgk&show_icons=true&locale=en&layout=compact" alt="vakgk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vakgk&show_icons=true&locale=en" alt="vakgk" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vakgk&show_icons=true&locale=en&layout=compact" alt="vakgk" /></p>
