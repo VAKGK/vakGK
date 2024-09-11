@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VADLAMUDI ARUN KUMAR</h1>
 <h3 align="center">A passionate Data Analyst Aspriant from India</h3>
-<P align="left"> <img src=""D:\D.A_2.0\03--ONLINE CREDIBILITY\03---LINKED IN BANNERS\da bootcamp banners final list\data_driven_growth.png"" alt="NOT FOUND"
+<P align="left"> <img src="D:\D.A_2.0\03--ONLINE CREDIBILITY\03---LINKED IN BANNERS\da bootcamp banners final list\data_driven_growth.png" alt="NOT FOUND"
 
 - 📫 How to reach me **arunpersonal21085@gmail.com**
 
