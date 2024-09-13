@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm VADLAMUDI ARUN KUMAR</h1>
-<h3 align="center">A passionate Data Analyst Aspriant from India</h3>
+<h3 align="center">A passionate Aspiring Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vakgk&label=Profile%20views&color=0e75b6&style=flat" alt="vakgk" /> </p>
+
+- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/VADLAMUDI-ARUN-KUMAR](https://codebasics.io/portfolio/VADLAMUDI-ARUN-KUMAR)
 
 - 💬 Ask me about **Microsoft Excel,Microsoft Power BI,MySQL**
 
