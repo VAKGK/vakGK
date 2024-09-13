@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/VADLAMUDI-ARUN-KUMAR](https://codebasics.io/portfolio/VADLAMUDI-ARUN-KUMAR)
 
-- 💬 Ask me about **Microsoft Excel,Microsoft Power BI,MySQL**
+- 💬 Ask me about **Microsoft Excel,Microsoft Power BI,SQL**
 
 - 📫 How to reach me **arunpersonal21085@gmail.com**
 
