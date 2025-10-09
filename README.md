@@ -1,29 +1,91 @@
-<h1 align="center">Hi 👋, I'm VADLAMUDI ARUN KUMAR</h1>
-<h3 align="center">A passionate Aspiring Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vakgk&label=Profile%20views&color=0e75b6&style=flat" alt="vakgk" /> </p>
+<h1 align="center">Hi 👋, I'm <span style="color:#0078D7;">Vadlamudi Arun Kumar</span></h1>
+<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Python | Excel</h3>
 
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/VADLAMUDI-ARUN-KUMAR](https://codebasics.io/portfolio/VADLAMUDI-ARUN-KUMAR)
+---
 
-- 💬 Ask me about **Microsoft Excel,Microsoft Power BI,SQL**
-
-- 📫 How to reach me **arunpersonal21085@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://twitter.com/https://x.com/vak_gk?](https://x.com/VAK_GK?t=Y8WEnCB1bxgQXVIeISkoUw&s=0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/vak_gk?" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vadlamudi-arun-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vadlamudi-arun-kumar/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/vadlamudiarun.vadlamudiarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/vadlamudiarun.vadlamudiarun" height="30" width="40" /></a>
-<a href="[https://instagram.com/https://www.instagram.com/vak_gk](https://www.instagram.com/vak_gk?igsh=bGFkNnF1cWExbTd5)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vak_gk" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vakgk&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vakgk?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/vakgk?label=Stars&style=flat-square&color=gold" alt="Stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vakgk&show_icons=true&locale=en&layout=compact" alt="vakgk" /></p>
+### 🧑‍💼 About Me  
+🎯 Detail-oriented and analytical **Data Analyst** with practical experience in **SQL, Power BI, Python, Tableau, and Excel**.  
+💡 Skilled in **data cleaning, transformation, visualization, and reporting** to deliver actionable business insights.  
+📊 Experienced in building **interactive dashboards and KPI-based reports** across domains like **FMCG, Insurance, Automotive, Supply Chain, and Hospitality**.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vakgk&show_icons=true&locale=en" alt="vakgk" /></p>
+- 🌍 Based in: **Hyderabad, Telangana, India**  
+- 💬 Ask me about: **Excel | Power BI | SQL | Data Analysis | Visualization**  
+- 📫 Reach me at: **vadlamudiarunkumar3@gmail.com**  
+- ⚡ Fun fact: *I love turning messy data into meaningful stories!*  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vakgk&" alt="vakgk" /></p>
+---
+
+### 🧰 Technical Skills  
+
+**BI Tools & Platforms:** Power BI, Tableau, Excel, Power Query  
+**Programming Languages:** Python, SQL, R  
+**Libraries & Technologies:** Pandas, NumPy, Matplotlib  
+
+### 🚀 Featured Projects  
+
+#### 🛒 Business Insights 360 – Retail & E-commerce | Power BI, SQL  
+
+#### 🏨 AtliQ Grands – Hospitality Analytics | SQL, Power BI  
+
+
+#### 📈 Sales & Finance Analytics – Consumer Goods | Excel, Power Query  
+
+
+#### 🛡️ Shield Insurance – AtliQ Technologies (Intern Project)  
+
+
+#### ⚡ Electric Vehicle Charging Range – SmartInternz | Tableau  
+
+### 🎓 Education  
+**Bachelor of Science (B.Sc)** in Mathematics, Statistics, and Computer Science (MSCS)  
+Government College Autonomous, Rajahmundry  
+📅 Nov 2021 – Jun 2024 | 🎓 CGPA: **9.48**
+
+---
+
+### 🏅 Certifications  
+- **Data Analytics Bootcamp 4.0 – Codebasics**
+
+---
+
+### 🧠 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,mysql,tableau,github,git,vscode" height="45"/>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vakgk&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vakgk&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakgk&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://x.com/VAK_GK" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/></a>
+  <a href="https://www.linkedin.com/in/vadlamudi-arun-kumar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+  <a href="https://www.facebook.com/vadlamudiarun.vadlamudiarun" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/></a>
+  <a href="https://www.instagram.com/vak_gk" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vakgk&theme=onedark&no-
+
