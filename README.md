@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm <span style="color:#0078D7;">Vadlamudi Arun Kumar</span></h1>
-<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Python | Excel</h3>
+<h3 align="center">Aspiring Data Scientist | Power BI | SQL | Python | Excel | ML</h3>
 
 ---
 
