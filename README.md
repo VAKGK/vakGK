@@ -13,7 +13,7 @@
 ---
 
 ### 🧑‍💼 About Me  
-🎯 Detail-oriented and analytical **Data Analyst** with practical experience in **SQL, Power BI, Python, Tableau, and Excel**.  
+🎯 Detail-oriented and analytical **Data Scientist** with practical experience in **ML, SQL, Power BI, Python, Tableau, and Excel**.  
 💡 Skilled in **data cleaning, transformation, visualization, and reporting** to deliver actionable business insights.  
 📊 Experienced in building **interactive dashboards and KPI-based reports** across domains like **FMCG, Insurance, Automotive, Supply Chain, and Hospitality**.  
 
