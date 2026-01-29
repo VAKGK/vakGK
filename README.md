@@ -1,122 +1,91 @@
+
 <h1 align="center">Hi 👋, I'm <span style="color:#0078D7;">Vadlamudi Arun Kumar</span></h1>
-<h3 align="center">Data Science & Machine Learning Aspirant | Data Analytics | Power BI | Python | SQL</h3>
-
-<p align="center">
-Turning raw data into meaningful insights through analytics & machine learning.
-</p>
+<h3 align="center">Aspiring Data Scientist | Power BI | SQL | Python | Excel | ML</h3>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vakgk&label=Profile%20Views&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/vakgk?label=Followers&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/stars/vakgk?label=Stars&style=flat-square&color=gold" />
+  <img src="https://komarev.com/ghpvc/?username=vakgk&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vakgk?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/vakgk?label=Stars&style=flat-square&color=gold" alt="Stars" />
 </p>
 
 ---
 
-## 🧑‍💼 About Me  
+### 🧑‍💼 About Me  
+🎯 Detail-oriented and analytical **Data Scientist** with practical experience in **ML, SQL, Power BI, Python, Tableau, and Excel**.  
+💡 Skilled in **data cleaning, transformation, visualization, and reporting** to deliver actionable business insights.  
+📊 Experienced in building **interactive dashboards and KPI-based reports** across domains like **FMCG, Insurance, Automotive, Supply Chain, and Hospitality**.  
 
-🎯 Data Science & Machine Learning aspirant with hands-on experience in **Python, SQL, Power BI, Tableau, and ML**.  
-📊 Strong in **EDA, feature engineering, predictive modeling, and dashboard storytelling**.  
-🚀 Passionate about building **end-to-end ML solutions and business-driven analytics dashboards**.  
-
-- 🌍 Hyderabad, Telangana, India  
-- 💬 Ask me about: **Python | SQL | Power BI | ML | Data Analysis**  
-- 📫 Email: **vadlamudiarunkumar3@gmail.com**  
-- ⚡ Fun fact: *I love converting messy datasets into clear business stories!*
-
----
-
-## 🧰 Technical Skills  
-
-**Programming:** Python, SQL  
-**Analytics & Visualization:** Power BI, Tableau, Excel, Pandas, NumPy, Matplotlib, Seaborn  
-**Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
-**Deployment & Tools:** Streamlit, Git, GitHub, VS Code  
-**Core Concepts:** EDA, Feature Engineering, Supervised & Unsupervised Learning  
+- 🌍 Based in: **Hyderabad, Telangana, India**  
+- 💬 Ask me about: **Excel | Power BI | SQL | Data Analysis | Visualization**  
+- 📫 Reach me at: **vadlamudiarunkumar3@gmail.com**  
+- ⚡ Fun fact: *I love turning messy data into meaningful stories!*  
 
 ---
 
-## 🚀 Featured Projects  
+### 🧰 Technical Skills  
 
-### 🏦 Customer Bank Churn Prediction | Python, ML, Random Forest  
-- Built Random Forest model achieving **85.5% accuracy** on imbalanced banking data  
-- Performed feature engineering and model evaluation (Precision, Recall, F1)  
-- Deployed an interactive **Streamlit web app** with custom dark UI  
-- Demonstrated full ML pipeline: preprocessing → modeling → deployment  
+**BI Tools & Platforms:** Power BI, Tableau, Excel, Power Query  
+**Programming Languages:** Python, SQL, R  
+**Libraries & Technologies:** Pandas, NumPy, Matplotlib  
 
----
+### 🚀 Featured Projects  
 
-### 🚗 Car Fuel Efficiency Prediction | Python, Linear Regression  
-- Predicted MPG for classic cars using UCI Auto MPG dataset  
-- Engineered 7 key features (cylinders, displacement, horsepower, weight, etc.)  
-- Achieved **R² = 92.2%**, MAE = 1.85 mpg  
-- Built a lightweight web app for real-time predictions  
+#### 🛒 Business Insights 360 – Retail & E-commerce | Power BI, SQL  
 
----
+#### 🏨 AtliQ Grands – Hospitality Analytics | SQL, Power BI  
 
-### 🛡️ Shield Insurance Analytics – AtliQ Technologies (Internship)  
-- Designed Power BI dashboards for **revenue, customers, and policy trends**  
-- Tracked KPIs using 6 months of business data  
-- Identified peak growth month and top-performing regions  
-- Delivered stakeholder-ready performance reports  
 
----
+#### 📈 Sales & Finance Analytics – Consumer Goods | Excel, Power Query  
 
-### ⚡ EV Charging Range Analysis | Tableau  
-- Analyzed global EV efficiency  
-- Built dashboards using maps, waterfall charts & tree views  
-- Highlighted Tesla as most efficient brand (473 km range)  
 
----
+#### 🛡️ Shield Insurance – AtliQ Technologies (Intern Project)  
 
-## 🎓 Education  
 
-**B.Sc in Mathematics, Statistics & Computer Science (MSCS)**  
+#### ⚡ Electric Vehicle Charging Range – SmartInternz | Tableau  
+
+### 🎓 Education  
+**Bachelor of Science (B.Sc)** in Mathematics, Statistics, and Computer Science (MSCS)  
 Government College Autonomous, Rajahmundry  
-🎓 CGPA: **9.48**
+📅 Nov 2021 – Jun 2024 | 🎓 CGPA: **9.48**
 
 ---
 
-## 🏅 Certifications  
-
-- Data Analytics Bootcamp – Codebasics  
-- Data Analytics with Tableau – SmartInternz  
+### 🏅 Certifications  
+- **Data Analytics Bootcamp 4.0 – Codebasics**
 
 ---
 
-## 🧠 Languages & Tools  
-
+### 🧠 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,tableau,excel,git,github,vscode" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,excel,powerbi,mysql,tableau,github,git,vscode" height="45"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vakgk&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vakgk&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vakgk&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vakgk&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakgk&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vakgk&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
-
+### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/vadlamudi-arun-kumar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/VAK_GK" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://www.instagram.com/vak_gk" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://x.com/VAK_GK" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/></a>
+  <a href="https://www.linkedin.com/in/vadlamudi-arun-kumar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+  <a href="https://www.facebook.com/vadlamudiarun.vadlamudiarun" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/></a>
+  <a href="https://www.instagram.com/vak_gk" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
 </p>
 
 ---
 
 <p align="center">
-⭐ If you like my work, feel free to star my repositories!
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=vakgk&theme=onedark&no-
+
